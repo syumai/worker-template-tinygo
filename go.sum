@@ -1,8 +1,4 @@
-github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=
-github.com/josharian/intern v1.0.0/go.mod h1:5DoeVV0s6jJacbCEi61lwdGj/aVlrQvzHFFd8Hwg//Y=
-github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=
-github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
 github.com/syumai/workers v0.1.0 h1:z5QfQR2X+PCKzom7RodpI5J4D5YF7NT7Qwzb9AM9dgY=
 github.com/syumai/workers v0.1.0/go.mod h1:alXIDhTyeTwSzh0ZgQ3cb9HQPyyYfIejupE4Z3efr14=
-github.com/syumai/workers/examples/simple-json-server v0.0.0-20220517152108-b79369769c89 h1:KYfKYDsa++LxNIt5G9zCpfpW2Ar+2RYXAIskjSoPJdI=
-github.com/syumai/workers/examples/simple-json-server v0.0.0-20220517152108-b79369769c89/go.mod h1:Z/fpfqKXBcG1OG7XpZdPytdxAZD3vYcu7e2S/0D6TFg=
+github.com/syumai/workers v0.1.1 h1:0wdtuhl7fHSCCyPBbHFDnAb00DOb0GcAPAQRmbWfiUM=
+github.com/syumai/workers v0.1.1/go.mod h1:alXIDhTyeTwSzh0ZgQ3cb9HQPyyYfIejupE4Z3efr14=
