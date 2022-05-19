@@ -6,7 +6,7 @@
 ## Usage
 
 * `main.go` includes simple HTTP server implementation. Feel free to edit this code and implement your own HTTP server.
-* To change project name, please edit `name` property in `wrangler.toml`.
+* To change project name, please edit `name` property in `wrangler.toml` and module name in `go.mod`.
 * You don't have to edit files in `js` directory.
 
 ## Development
