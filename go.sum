@@ -1,4 +1,2 @@
-github.com/syumai/workers v0.1.0 h1:z5QfQR2X+PCKzom7RodpI5J4D5YF7NT7Qwzb9AM9dgY=
-github.com/syumai/workers v0.1.0/go.mod h1:alXIDhTyeTwSzh0ZgQ3cb9HQPyyYfIejupE4Z3efr14=
-github.com/syumai/workers v0.1.1 h1:0wdtuhl7fHSCCyPBbHFDnAb00DOb0GcAPAQRmbWfiUM=
-github.com/syumai/workers v0.1.1/go.mod h1:alXIDhTyeTwSzh0ZgQ3cb9HQPyyYfIejupE4Z3efr14=
+github.com/syumai/workers v0.2.0 h1:g2ivAdPj3x6UzeJhhpFzNA1ZPV5m1RqU1dRIcCItJLE=
+github.com/syumai/workers v0.2.0/go.mod h1:alXIDhTyeTwSzh0ZgQ3cb9HQPyyYfIejupE4Z3efr14=
