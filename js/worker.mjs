@@ -9,9 +9,12 @@ const load = WebAssembly.instantiate(mod, go.importObject).then((instance) => {
   return instance;
 });
 
-export default {
-  async fetch(req) {
-    await load;
-    return handleRequest(req);
-  },
-};
+async function processRequest(event) {
+  const req = event.request;
+  await load;
+  return handleRequest(req);
+}
+
+addEventListener("fetch", (event) => {
+  event.respondWith(processRequest(event));
+})
