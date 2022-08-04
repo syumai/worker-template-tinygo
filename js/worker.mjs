@@ -1,6 +1,7 @@
-import "./polyfill_performance.js";
 import "./wasm_exec.js";
 import mod from "../dist/app.wasm";
+
+globalThis.performance.now = Date.now
 
 const go = new Go();
 
