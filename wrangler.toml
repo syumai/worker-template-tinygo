@@ -1,4 +1,4 @@
-name = "worker-template-tinygo"
+name = "tinygo-worker"
 main = "./js/worker.mjs"
 compatibility_date = "2022-05-13"
 compatibility_flags = [
