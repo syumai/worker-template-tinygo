@@ -19,6 +19,7 @@
 
 ```
 $ git clone https://github.com/syumai/worker-template-tinygo my-app
+$ cd my-app
 $ go mod init
 $ go mod tidy
 $ make dev # start running dev server
