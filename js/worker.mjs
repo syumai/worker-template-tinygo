@@ -9,9 +9,14 @@ const load = WebAssembly.instantiate(mod, go.importObject).then((instance) => {
   return instance;
 });
 
+const readyPromise = new Promise((resolve) => {
+  globalThis.ready = resolve;
+});
+
 async function processRequest(event) {
   const req = event.request;
   await load;
+  await readyPromise;
   return handleRequest(req);
 }
 
