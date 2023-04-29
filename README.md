@@ -6,7 +6,6 @@
 ## Usage
 
 - `main.go` includes simple HTTP server implementation. Feel free to edit this code and implement your own HTTP server.
-- You don't have to edit files in `js` directory.
 
 ## Requirements
 
